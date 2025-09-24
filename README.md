@@ -89,9 +89,6 @@ The application provides a menu-driven interface. Follow the prompts to:
 **Add Students**
 <img src ="screenshots/add.jpg">
 
-**Update**
-<img src ="screenshots/update.jpg">
-
 **Display**
 <img src ="screenshots/list.jpg">
 
